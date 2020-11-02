@@ -1,0 +1,35 @@
+html,
+body{
+	 background-color:#FCFCFC;
+}
+
+
+footer{
+	background-color:#343a40;
+	color:white;
+	position: absolute;
+   margin-bottombottom: 0px;
+   width: 100%;
+}
+#containerFluid
+{
+	margin-top:90px;
+}
+#text
+{
+	
+	color:black;
+	
+	
+}
+#image1
+{
+	height:300px;
+	
+	
+}
+#bottomPic
+{
+	height:300px;
+}
+

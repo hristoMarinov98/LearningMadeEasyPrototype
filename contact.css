@@ -1,0 +1,38 @@
+html,
+body{
+	 background-color:#FCFCFC;;
+}
+.contact{
+		padding: 4%;
+		height: 400px;
+	}
+	.col-md-3{
+		background: #D2B48C;
+		padding: 4%;
+		border-top-left-radius: 0.5rem;
+		border-bottom-left-radius: 0.5rem;
+	}
+	
+	
+	
+	.contact-info h2{
+		margin-bottom: 10%;
+	}
+	.col-md-9{
+		background: #fff;
+		padding: 3%;
+		border-top-right-radius: 0.5rem;
+		border-bottom-right-radius: 0.5rem;
+	}
+	.contact-form label{
+		font-weight:600;
+	}
+	
+footer{
+	background-color:#343a40;
+	color:white;
+	 position: absolute;
+  margin-top:200px;
+  width: 100%;
+  
+

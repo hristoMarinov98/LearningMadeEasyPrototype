@@ -1,0 +1,36 @@
+body,
+html {
+  background-color:#FCFCFC;
+  
+}
+
+
+
+
+
+
+.container {
+   position: relative;
+  text-align: center;
+  color: red;
+  
+  }
+.centered {
+	
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  }
+  h1 {
+  font-size: 4rem;
+  color: #cc0099;
+  
+}
+footer{
+	background-color:#343a40;
+	color:white;
+}
+#image{
+	height:500px;
+}

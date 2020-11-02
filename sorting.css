@@ -1,0 +1,16 @@
+html,
+body{
+	 background-color:#FCFCFC;;
+}
+footer{
+	background-color:#343a40;
+	color:white;
+	 position: absolute;
+  bottom: 0;
+  width: 100%;
+  
+}
+h1{
+	color:black;
+	margin-top:200px;
+}
